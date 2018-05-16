@@ -16,13 +16,13 @@ section:nth-of-type(1) {
     background-image: url('./images/ksu.jpeg');
 }
 section:nth-of-type(2) {
-    background-image: url('./images/two.jpeg');
+    background-image: url('./images/compressjpeg/two-min.jpeg');
 }
 section:nth-of-type(3) {
-    background-image: url('./images/two-one.jpeg');
+    background-image: url('./images/compressjpeg/two-one-min.jpeg');
 }
 section:nth-of-type(4) {
-    background-image: url('./images/mom.jpeg');
+    background-image: url('./images/compressjpeg/me-you-min.jpeg');
 }
 @media only screen and (min-width:900px) {
     section {
